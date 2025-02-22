@@ -1,0 +1,13 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+
+# Ignore model files and datasets
+fine_tuned_model/
+data.json
+
+# Ignore logs and cache
+*.log
+
+# Ignore LLM file
+my_llm/
