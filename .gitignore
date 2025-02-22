@@ -11,3 +11,6 @@ data.json
 
 # Ignore LLM file
 my_llm/
+
+#Ignore Essay doc file
+Doc/Large_Language_Models_Essay.docx
